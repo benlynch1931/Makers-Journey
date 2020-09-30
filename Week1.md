@@ -1,7 +1,24 @@
 # Week 1
 
 ## Weekly Goals
+1. Learn to program using TDD. 
+2. Debug programs using Makers' Mantra.
+3. Pair using the driver-navigator style. **✓**
+4. Describe some basic Object-Oriented principles
+
+### Plans to achieve these goals:
+1. Work through the Boris Bike Challenge and attend the morning workshops.
+2. Debug two programs provided that contain multiple testing and syntax errors.
+3. Work on pratical resources provided to strengthen knowledge, and write a blog to help others understand these principles.
+4. Each afternoon, spend 3-4hours pair-programming with a different partners, following best practices and learning from them.
+
+### Evidence:
 1. 
+- Long and immersive step-wise Boris Bike challenge here - ability to view progress through commits and see the development of the program through the various tests set up.
+
+2. Debugged a couple of programs - view here.
+3. Completed repo for Boris Mikes challenge with list of Contributers in the README.md
+4. N/A
 
 ## Daily Goals
 
