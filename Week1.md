@@ -15,6 +15,7 @@
 ### Evidence:
 1. 
 - Long and immersive step-wise Boris Bike challenge here - ability to view progress through commits and see the development of the program through the various tests set up.
+- Exercise from skills-workshop involving creating a diary program using TDD. See my progress [here](https://github.com/benlynch1931/Secret-Diary-TDD)
 
 2. Debugged a couple of programs - view here.
 3. Completed repo for Boris Mikes challenge with list of Contributers in the README.md
