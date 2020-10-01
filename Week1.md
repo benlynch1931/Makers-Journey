@@ -32,6 +32,12 @@
 
 ### Thursday 1st October
 
+- **Goal** : increase practical knowledge of TDD
+- **Plan** : TDD a program using unit testing
+- **Evidence** : [Secret-Diary](https://github.com/benlynch1931/Secret-Diary-TDD) program with commits showing progression of tests and the program
+
+### Friday 2nd October
+
 - **Goal** : Fully understand 'Encapsulation' on a theoretical and practical level
 - **Plan** : Write a blog designed to simplify the definition, and that includes coded examples
 - **Evidence** : N/A
