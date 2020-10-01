@@ -10,7 +10,7 @@
 1. Work through the Boris Bike Challenge and attend the morning workshops.
 2. Debug two programs provided that contain multiple testing and syntax errors.
 3. Work on pratical resources provided to strengthen knowledge, and write a blog to help others understand these principles.
-4. Each afternoon, spend 3-4hours pair-programming with a different partners, following best practices and learning from them.
+4. Each afternoon, spend 3-4hours pair-programming with a different partners, following best practices and learning from them. Use Google Forms to get responses back from my partners. See here.
 
 ### Evidence:
 1. 
