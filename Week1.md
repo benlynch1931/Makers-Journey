@@ -43,3 +43,17 @@
 - **Plan** : Write a blog designed to simplify the definition, and that includes coded examples. 
 - **Plan** : Work through the Secret-Diary exercise on encapsulation and cohesion.
 - **Evidence** : N/A
+
+
+# Pair-Programming Feedback
+
+**Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
+
+### Response 1
+
+&#x2714; "Explained some of the elements that were new to me."
+- I am pleased to know that I am passing on knowledge that I have that others may not. It is also nice to hear that people are benefitting from this.
+
+&#x2718; "Perhaps take a breath and try to use the errors. avoiding too much frustration"
+- It is useful to hear this as I have always tried to rush through things. 
+- I shall use this advice and learn to calm and slow myself, ensuring I have all information I possibly can before I proceed. This will eventually lead to better practice, more efficient code and less errors.
