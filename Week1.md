@@ -1,10 +1,10 @@
 # Week 1
 
 ## Weekly Goals
-1. Learn to program using TDD. 
-2. Debug programs using Makers' Mantra.
+1. Learn to program using TDD. **✓**
+2. Debug programs using Makers' Mantra. **✓**
 3. Pair using the driver-navigator style. **✓**
-4. Describe some basic Object-Oriented principles
+4. Describe some basic Object-Oriented principles **✓**
 
 ### Plans to achieve these goals:
 1. Work through the Boris Bike Challenge and attend the morning workshops.
@@ -25,14 +25,14 @@
 
 ### Wednesday 30th September
 
-- **Goal** : Fix the Geocoder Bug issue
+- **Goal** : Fix the Geocoder Bug issue **✓**
 - **Plan** : Compare the two Gems to find the syntax errors and added/missing lines
 - **Evidence** : Check with a Coach to see if I was correct with my debugging. Error found in<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;./really-broken-geocoder-2.0.0/lib/geocoder/query.rb:41 . There was a ```return``` that didn't belong.
 
 ### Thursday 1st October
 
-- **Goal** : increase practical knowledge of TDD
+- **Goal** : increase practical knowledge of TDD **✓**
 - **Plan** : TDD a program using unit testing
 - **Evidence** : [Secret-Diary](https://github.com/benlynch1931/Secret-Diary-TDD) program with commits showing progression of tests and the program
 
