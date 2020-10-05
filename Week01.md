@@ -19,7 +19,7 @@
 
 2. Debugged a couple of programs - view here.
 3. Completed repo for [Boris Bikes](https://github.com/benlynch1931/boris_bikes) challenge with list of Contributers in the README.md
-4. Wrote a blog explaining Encapsulation, found [here]().
+4. Wrote a blog explaining Encapsulation, found [here](https://benlynch1931.wixsite.com/benthedevsblog).
 
 ## Daily Goals
 
