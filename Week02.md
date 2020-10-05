@@ -25,9 +25,9 @@
 
 ### Monday 5th October
 
-- **Goal** : 
-- **Plan** : 
-- **Evidence** : 
+- **Goal** : Explain the 4 main principles in OOP
+- **Plan** : Write a blog that explains the 4 main ideas in a brief description. Including examples where possible.
+- **Evidence** : Blog available [here](https://benlynch1931.wixsite.com/benthedevsblog), on my blog website.
 
 
 ### Tuesday 6th October
