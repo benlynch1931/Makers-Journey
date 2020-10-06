@@ -57,3 +57,10 @@
 &#x2718; "Perhaps take a breath and try to use the errors. avoiding too much frustration"
 - It is useful to hear this as I have always tried to rush through things. 
 - I shall use this advice and learn to calm and slow myself, ensuring I have all information I possibly can before I proceed. This will eventually lead to better practice, more efficient code and less errors.
+
+### Response 2
+
+&#x2714; "Great communication and sound advise, able to easily conceptualise tests/code and take things step by step. Thanks for all the tips and tricks!
+- Glad to know that not only my knowledge is useful but the small tips I pick up along the way are put to good use. I thought I struggled with step-by-step at times, so happy to know I am building on better practice.
+
+&#x2718; N/A
