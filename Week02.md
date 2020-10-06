@@ -32,9 +32,9 @@
 
 ### Tuesday 6th October
 
-- **Goal** : 
-- **Plan** : 
-- **Evidence** : 
+- **Goal** : Use Class Diagrams and split 1 class into multipel classes and maintain coverage.
+- **Plan** : Used the information from diagramming workshop and TDD the exercise in 1 class, then create class diagram to implement multiple classes. If coverage is low, imput more tests to fix this
+- **Evidence** : Shown [here](https://github.com/benlynch1931/notebook), through commits.
 
 
 ### Wednesday 7th October
