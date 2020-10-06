@@ -48,11 +48,11 @@
 
 **Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
-### Response 1
+### Response 1-3
 
-&#x2714; 
-- 
+&#x2714; "Confident in his process of thinking, knew how to express his opinions effectively and was a good communicator."
+- It seems the building of thinking/step-by-step process is beginning to take shape.
+- It is a great thing to hear that I am communicating well as this is an essential soft-skill to have
 
-&#x2718; 
-- 
-- 
+&#x2718; "Unable to comment"
+- It's nice to know people struggle to find improvements as this mean I am not getting hindered too often and that I am progressing really well.
