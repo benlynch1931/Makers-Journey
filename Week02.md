@@ -39,7 +39,7 @@
 
 ### Wednesday 7th October
 
-- **Goal** : 
+- **Goal** : Learn how to use mocking to test isolated classes. Learn how doubles work.
 - **Plan** : 
 - **Evidence** :
 
@@ -56,3 +56,12 @@
 
 &#x2718; "Unable to comment"
 - It's nice to know people struggle to find improvements as this mean I am not getting hindered too often and that I am progressing really well.
+
+### Response 2-4
+
+&#x2714; "Setup(ready to work, organized desktop), Good communication, looking ahead"
+- I will admit I take pride in my setup and how I lay out my windows.
+- I am not surprised that I was thinking ahead, it is a useful tool, but I will have to learn to switch it off at times.
+
+&#x2718; "N/A"
+- Another 'loss of words' almost. I shall start to self-reflect if I have time as an addition to the forms I send out.
