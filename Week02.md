@@ -1,4 +1,6 @@
-# Week 2
+[Week1]() | [Week2](https://github.com/benlynch1931/Makers-Journey/edit/master/Week02.md#week2) | [Week3]() | [Week4]() | [Week5]() | [Week6]() | [Week7]() | [Week8]() | [Week9]() | [Week10]() | [Week11]() | [Week12]()
+
+# <a name="week2">Week 2</a>
 
 ## Weekly Goals
 1.  **✓**
