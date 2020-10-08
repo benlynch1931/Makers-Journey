@@ -39,8 +39,8 @@
 ### Wednesday 7th October
 
 - **Goal** : Learn how to use mocking to test isolated classes. Learn how doubles work.
-- **Plan** : 
-- **Evidence** :
+- **Plan** : Use the practical example that applies the idea to SecretDiary.
+- **Evidence** : Found [here]() on my github. The commits show progression of updating tests to include true instances and include testing behaviour NOT state. This was possible with the help of Tatsiana and her advice!
 
 
 ### Thursday 8th October
