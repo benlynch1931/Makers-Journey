@@ -43,6 +43,13 @@
 - **Evidence** :
 
 
+### Thursday 8th October
+
+- **Goal** : Learn how to apply *Dependency Injection* to programs
+- **Plan** : Use the practical resource as an example, then find existing program and apply there also.
+- **Evidence** :
+
+
 ## <a name="pair">Pair-Programming Feedback</a>
 
 **Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
