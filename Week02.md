@@ -1,7 +1,7 @@
 [Week 1](https://github.com/benlynch1931/Makers-Journey/blob/master/Week01.md#week1) | [Week 2](https://github.com/benlynch1931/Makers-Journey/blob/master/Week02.md#week2) | [Week 3](https://github.com/benlynch1931/Makers-Journey/blob/master/Week03.md#week3) | [Week 4](https://github.com/benlynch1931/Makers-Journey/blob/master/Week04.md#week4) | [Week 5](https://github.com/benlynch1931/Makers-Journey/blob/master/Week05.md#week5) | [Week 6](https://github.com/benlynch1931/Makers-Journey/blob/master/Week05.md#week5) | [Week 7](https://github.com/benlynch1931/Makers-Journey/blob/master/Week07.md#week7) | [Week 8](https://github.com/benlynch1931/Makers-Journey/blob/master/Week08.md#week8) | [Week 9](https://github.com/benlynch1931/Makers-Journey/blob/master/Week09.md#week9) | [Week 10](https://github.com/benlynch1931/Makers-Journey/blob/master/Week10.md#week10) | [Week 11](https://github.com/benlynch1931/Makers-Journey/blob/master/Week11.md#week11) | [Week 12](https://github.com/benlynch1931/Makers-Journey/blob/master/Week12.md#week12)
 
 # <a name="week2">Week 2</a>
-[Weekly Goals](#weekly) | [Daily Goals](#daily) | [Feedback](#pair)
+[Weekly Goals](#weekly) | [Daily Goals](#daily) | [Feedback](#pair) | [Process Workshop](#process)
 ## <a name="weekly">Weekly Goals</a>
 1.  **✓**
 2.  **✓**
@@ -64,3 +64,19 @@
 
 &#x2718; "N/A"
 - Another 'loss of words' almost. I shall start to self-reflect if I have time as an addition to the forms I send out.
+
+## <a name="process">Process Workshop Feedback</a>
+
+### Response 1:
+
+&#x2714; "Clear and efficient setup. Laid out screen so you can see everything"
+- I do take pride in how I lay out my windows as it helps increase my efficiency if I can see everything open!
+
+&#x2714; "Read and checked the failing test even though you knew it would fail"
+- It took me a lot of brain power to force myself to check all errors to get into a good practice/routine. I'm happy that this is noticed as a good thing.
+
+&#x2714; "I liked that you were saying your thinking process. I could 'see' what you were writing without looking at your screen"
+- I find it not only is useful for the observer, but also useful for me. It gives me a chance to let my brain fully process things without gettting ahead of myself. More often than not, I notcied a flaw in my idea as I'm speaking it, just from where my brain can process it fully.
+
+&#x2718; "On occasion, you chanced the test according to the code. You should probably let it fail first"
+- I hear you. I shall learn to let the test fail and then go and alter it where I need to.
