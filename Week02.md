@@ -40,7 +40,7 @@
 
 - **Goal** : Learn how to use mocking to test isolated classes. Learn how doubles work.
 - **Plan** : Use the practical example that applies the idea to SecretDiary.
-- **Evidence** : Found [here](https://github.com/benlynch1931/testing_relationships_between_classes) on my github. The commits show progression of updating tests to include true instances and include testing behaviour NOT state. This was possible with the help of Tatsiana and her advice!
+- **Evidence** : Found [here](https://github.com/benlynch1931/testing_relationships_between_classes) and [here](https://github.com/benlynch1931/notebook) on my github. The commits show progression of updating tests to include true instances and include testing behaviour NOT state. This was possible with the help of Tatsiana and her advice!
 
 
 ### Thursday 8th October
