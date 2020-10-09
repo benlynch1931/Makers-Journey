@@ -46,8 +46,8 @@
 ### Thursday 8th October
 
 - **Goal** : Learn how to apply *Dependency Injection* to programs
-- **Plan** : Use the practical resource as an example, then find existing program and apply there also.
-- **Evidence** :
+- **Plan** : Use the practical resource as an example, then find existing programs and apply to them.
+- **Evidence** : Can be seen [here](https://github.com/benlynch1931/notebook) and [here](https://github.com/benlynch1931/Secret-Diary-TDD). From now on, I shall ensure most if not all my programs are applying Dependency Injection.
 
 
 ## <a name="pair">Pair-Programming Feedback</a>
