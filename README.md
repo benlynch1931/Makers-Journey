@@ -192,18 +192,18 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 
 ## <a name="daily">Daily Goals</a>
 
-### Monday
+### Monday 12th October
 
 - **Goal** :
 - **Plan** :
 - **Evidence** :
 
 
-### Tuesday
+### Tuesday 13th October
 
-- **Goal** :
-- **Plan** :
-- **Evidence** :
+- **Goal** : Understand the Request/response cycle of HTTP
+- **Plan** : Go to the workshop with Alice and work through the examples and create diagrams of the cycle.
+- **Evidence** : Found [here](https://github.com/benlynch1931/Intro-to-web-applications) as a word document in my Web Applications repo.
 
 
 ### Wednesday
