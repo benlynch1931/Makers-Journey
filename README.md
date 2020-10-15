@@ -206,12 +206,18 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 - **Evidence** : Found [here](https://github.com/benlynch1931/Intro-to-web-applications) as a word document in my Web Applications repo.
 
 
-### Wednesday
+### Wednesday 14th October
 
-- **Goal** :
-- **Plan** :
-- **Evidence** :
+- **Goal** : Create Basic Webb App.
+- **Plan** : Use my own knowledge and skills from afternoon challenge to build dice-roller
+- **Evidence** : [Dice-Roller](https://github.com/benlynch1931/Dice-Roll-Generator) available on my github. This is not coded the best as I am still learning, but it was great fun to mess around with my creativity!
 
+
+### Thrusday 15th October
+
+- **Goal** : Debug a simple Web App.
+- **Plan** : Go to Debugging workshop and have a go at the practical example provided.
+- **Evidence** : Found [here](https://github.com/benlynch1931/skills-workshops/tree/master/week-3/debugging_2) on my fork of the skills-workshop repository.
 
 ## <a name="pair">Pair-Programming Feedback</a>
 
