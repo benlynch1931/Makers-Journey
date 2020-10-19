@@ -284,6 +284,12 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 - **Evidence** :
 
 
+### Friday 
+
+- **Goal** : 
+- **Plan** : Use '' practical resource supplied by Makers.
+- **Evidence** : [here]() is the repo link to my work on this practical. It was useful to implement SQL into Ruby to understand how they interact and can work with each other.
+
 ## <a name="pair">Pair-Programming Feedback</a>
 
 **Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
