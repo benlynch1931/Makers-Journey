@@ -244,13 +244,13 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 # <a name="week4">Week 4</a>
 [Weekly Goals](#weekly) | [Daily Goals](#daily) | [Feedback](#pair)
 ## <a name="weekly">Weekly Goals</a>
-1.  **✓**
+1.  Build a Diary app using databases and previous knowledge on sinatra and Ruby
 2.  **✓**
 3.  **✓**
 4.  **✓**
 
 ### Plans to achieve these goals:
-1.
+1. Use the practical resource provided and work through it during my independent learning time. 
 2.
 3.
 4.
@@ -262,12 +262,6 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 4.
 
 ## <a name="daily">Daily Goals</a>
-
-### Monday
-
-- **Goal** :
-- **Plan** :
-- **Evidence** :
 
 
 ### Tuesday
