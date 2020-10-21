@@ -266,9 +266,8 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 
 ### Tuesday
 
-- **Goal** :
-- **Plan** :
-- **Evidence** :
+- I used this morning to set up all necessary files and directories to create an app that interacts with a database. 
+- Also, I allow titles and bodies to be entered, then for all of it to be inserted into a database table. This was a new conecpt for me as I hadn't executed an insert query in ruby yet, so I had fun playing around with it and debugging the errors I had.
 
 
 ### Wednesday
