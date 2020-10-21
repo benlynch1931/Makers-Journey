@@ -275,7 +275,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 
 - **Goal** : Understand Domain/Diagram Models for Databases
 - **Plan** : Use the workshop to understand what goes on, and apply myself to the practical
-- **Evidence** : The result of the practical can be found [here](https://docs.google.com/spreadsheets/d/1fQARnASjmnGDtWgPEBRwsdStJ17BASBIe0Rnn6z0fzY/edit#gid=0). I worked through this with two peers from my Cohort, so many thanks to them for the discussions and help!
+- **Evidence** : The result of the practical can be found [here](https://docs.google.com/spreadsheets/d/1fQARnASjmnGDtWgPEBRwsdStJ17BASBIe0Rnn6z0fzY/edit#gid=0) and my personal CRC [here](https://docs.google.com/spreadsheets/d/1s9YzaNu68xy8Qng9Ib4xvvGeDiNB1qjjsBtLiK5kLvA/edit#gid=0).  I worked through the practical with two peers from my Cohort, so many thanks to them for the discussions and help!
 
 
 ### Friday 
