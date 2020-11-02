@@ -54,7 +54,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 
 ## Pair-Programming Feedback
 
-**Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
+**Disclaimer!** *These are all anonymous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
 ### Response 1-1
 
@@ -78,26 +78,26 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 [Week 1](#week1) | [Week 2](#week2) | [Week 3](#week3) | [Week 4](#week4) | [Week 5](#week5) | [Week 6](#week5) | [Week 7](#week7) | [Week 8](#week8) | [Week 9](#week9) | [Week 10](#week10) | [Week 11](#week11) | [Week 12](#week12)
 
 # <a name="week2">Week 2</a>
-[Weekly Goals](#weekly) | [Daily Goals](#daily) | [Feedback](#pair) | [Process Workshop](#process)
-## <a name="weekly">Weekly Goals</a>
-1.  **✓**
-2.  **✓**
-3.  **✓**
-4.  **✓**
+[Weekly Goals](#weekly-2) | [Daily Goals](#daily-2) | [Feedback](#pair-2) | [Process Workshop](#process-2)
+## <a name="weekly-2">Weekly Goals</a>
+1.  Use all of week 1's skills **✓**
+2.  Break one class into two classes that work together, while maintaining test coverage **✓**
+3.  Unit test classes in isolation using mocking **✓**
+4.  Explain some basic OO principles and tie them to high level concerns **✓**
 
 ### Plans to achieve these goals:
 1.
-2.
-3.
-4.
+2. Follow the practical example provided on the week outlines
+3. Follow the practical example provided on the week outlines.
+4. Write a blog that looks into the 4 main OO principles.
 
 ### Evidence:
-1.
-2.
-3.
-4.
+1. Most of the Repositories I have contain the skills from Week 1, so I haven't listed them all. Here is my [profile](https://github.com/benlynch1931) thought.
+2. Points 2 and 3 were completed together, so are on the same [repo](https://github.com/benlynch1931/Secret-Diary-TDD).
+3. As Above.
+4. The blog is available [here](https://benlynch1931.wixsite.com/benthedevsblog/post/object-oriented-principles-the-fundamental-four)
 
-## <a name="daily">Daily Goals</a>
+## <a name="daily-2">Daily Goals</a>
 
 ### Monday 5th October
 
@@ -127,9 +127,9 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 - **Evidence** : Can be seen [here](https://github.com/benlynch1931/notebook) and [here](https://github.com/benlynch1931/Secret-Diary-TDD). From now on, I shall ensure most if not all my programs are applying Dependency Injection.
 
 
-## <a name="pair">Pair-Programming Feedback</a>
+## <a name="pair-2">Pair-Programming Feedback</a>
 
-**Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
+**Disclaimer!** *These are all anonymous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
 ### Response 1-3
 
@@ -149,7 +149,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 &#x2718; "N/A"
 - Another 'loss of words' almost. I shall start to self-reflect if I have time as an addition to the forms I send out.
 
-## <a name="process">Process Workshop Feedback</a>
+## <a name="process-2">Process Workshop Feedback</a>
 
 ### Response 1:
 
@@ -171,8 +171,8 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 [Week 1](#week1) | [Week 2](#week2) | [Week 3](#week3) | [Week 4](#week4) | [Week 5](#week5) | [Week 6](#week5) | [Week 7](#week7) | [Week 8](#week8) | [Week 9](#week9) | [Week 10](#week10) | [Week 11](#week11) | [Week 12](#week12)
 
 # <a name="week3">Week 3</a>
-[Weekly Goals](#weekly) | [Daily Goals](#daily) | [Feedback](#pair)
-## <a name="weekly">Weekly Goals</a>
+[Weekly Goals](#weekly-3) | [Daily Goals](#daily-3) | [Feedback](#pair-3)
+## <a name="weekly-3">Weekly Goals</a>
 1.  **✓**
 2.  **✓**
 3.  **✓**
@@ -190,7 +190,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 3.
 4.
 
-## <a name="daily">Daily Goals</a>
+## <a name="daily-3">Daily Goals</a>
 
 ### Monday 12th October
 
@@ -213,15 +213,21 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 - **Evidence** : [Dice-Roller](https://github.com/benlynch1931/Dice-Roll-Generator) available on my github. This is not coded the best as I am still learning, but it was great fun to mess around with my creativity!
 
 
-### Thrusday 15th October
+### Thursday 15th October
 
 - **Goal** : Debug a simple Web App.
 - **Plan** : Go to Debugging workshop and have a go at the practical example provided.
 - **Evidence** : Found [here](https://github.com/benlynch1931/skills-workshops/tree/master/week-3/debugging_2) on my fork of the skills-workshop repository.
 
-## <a name="pair">Pair-Programming Feedback</a>
+### Friday 16th October
 
-**Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
+- **Goal** : Build a simple name-picker application
+- **Plan** : Use previous web app code to create this app. Use any resources provided and use Google to find any further information.
+- **Evidence** : Here is a [prototype](https://github.com/benlynch1931/Random-Name-Picker) of what the app does, I concentrated mainly on getting the routing and backend working as opposed to how the front-end (CSS) looks like.
+
+## <a name="pair-3">Pair-Programming Feedback</a>
+
+**Disclaimer!** *These are all anonymous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
 ### Response 1-
 
@@ -242,32 +248,23 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 [Week 1](#week1) | [Week 2](#week2) | [Week 3](#week3) | [Week 4](#week4) | [Week 5](#week5) | [Week 6](#week5) | [Week 7](#week7) | [Week 8](#week8) | [Week 9](#week9) | [Week 10](#week10) | [Week 11](#week11) | [Week 12](#week12)
 
 # <a name="week4">Week 4</a>
-[Weekly Goals](#weekly) | [Daily Goals](#daily) | [Feedback](#pair)
-## <a name="weekly">Weekly Goals</a>
+[Weekly Goals](#weekly-4) | [Daily Goals](#daily-4)
+## <a name="weekly-4">Weekly Goals</a>
 1.  Build a Diary app using databases and previous knowledge on sinatra and Ruby
-2.  **✓**
-3.  **✓**
-4.  **✓**
+2.  Follow an effective debugging process for database applications **✓**
+3.  Explain the basics of how databases work (e.g. tables, SQL, basic relationships) **✓**
 
-### Plans to achieve these goals:
-1. Use the practical resource provided and work through it during my independent learning time. 
-2.
-3.
-4.
 
 ### Evidence:
-1.
-2.
-3.
-4.
+1. See [Friday 23rd October](#fri-23)
 
-## <a name="daily">Daily Goals</a>
+## <a name="daily-4">Daily Goals</a>
 
 
 ### Tuesday 20th October
 
 #### Weekly Goal:
-- I used this morning to set up all necessary files and directories to create an app that interacts with a database. 
+- I used this morning to set up all necessary files and directories to create an app that interacts with a database.
 - Also, I allow titles and bodies to be entered, then for all of it to be inserted into a database table. This was a new conecpt for me as I hadn't executed an insert query in ruby yet, so I had fun playing around with it and debugging the errors I had.
 
 
@@ -278,28 +275,12 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 - **Evidence** : The result of the practical can be found [here](https://docs.google.com/spreadsheets/d/1fQARnASjmnGDtWgPEBRwsdStJ17BASBIe0Rnn6z0fzY/edit#gid=0) and my personal CRC [here](https://docs.google.com/spreadsheets/d/1s9YzaNu68xy8Qng9Ib4xvvGeDiNB1qjjsBtLiK5kLvA/edit#gid=0).  I worked through the practical with two peers from my Cohort, so many thanks to them for the discussions and help!
 
 
-### Friday 
+### <a name="fri-23">Friday 23rd October</a>
 
-- **Goal** : 
-- **Plan** : Use '' practical resource supplied by Makers.
-- **Evidence** : [here]() is the repo link to my work on this practical. It was useful to implement SQL into Ruby to understand how they interact and can work with each other.
+- **Goal** : Finish a diary web app as best as possible at the current moment
+- **Plan** : Use practical resource supplied by Makers.
+- **Evidence** : [here](https://github.com/benlynch1931/Diary-Web-App) is the repo link to my work on this practical. It was useful to implement SQL into Ruby to understand how they interact and can work with each other.
 
-## <a name="pair">Pair-Programming Feedback</a>
-
-**Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
-
-### Response 1-
-
-&#x2714;
-
-&#x2718;
-
-
-### Response 2-
-
-&#x2714;
-
-&#x2718;
 
 
 
@@ -307,97 +288,39 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 [Week 1](#week1) | [Week 2](#week2) | [Week 3](#week3) | [Week 4](#week4) | [Week 5](#week5) | [Week 6](#week5) | [Week 7](#week7) | [Week 8](#week8) | [Week 9](#week9) | [Week 10](#week10) | [Week 11](#week11) | [Week 12](#week12)
 
 # <a name="week5">Week 5</a>
-[Weekly Goals](#weekly) | [Daily Goals](#daily) | [Feedback](#pair)
-## <a name="weekly">Weekly Goals</a>
-1.  **✓**
-2.  **✓**
-3.  **✓**
-4.  **✓**
+[Weekly Goals](#weekly-5)
+## <a name="weekly-5">Weekly Goals</a>
+Week 5 turned out to be Week 6 instead.
+Week 5 consisted of building a clone of AirBNB in a team of 4-5 people. It was a great challenge and an even better insight into projects and group work you may get up to in the future.
 
-### Plans to achieve these goals:
-1.
-2.
-3.
-4.
-
-### Evidence:
-1.
-2.
-3.
-4.
-
-## <a name="daily">Daily Goals</a>
-
-### Monday
-
-- **Goal** :
-- **Plan** :
-- **Evidence** :
-
-
-### Tuesday
-
-- **Goal** :
-- **Plan** :
-- **Evidence** :
-
-
-### Wednesday
-
-- **Goal** :
-- **Plan** :
-- **Evidence** :
-
-
-## <a name="pair">Pair-Programming Feedback</a>
-
-**Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
-
-### Response 1-
-
-&#x2714;
-
-&#x2718;
-
-
-### Response 2-
-
-&#x2714;
-
-&#x2718;
-
+I particularly enjoyed the freedom we were given to complete this challenge. I learned a lot of useful skills from my team and hope I will take on the feedback they gave me.
 
 
 
 [Week 1](#week1) | [Week 2](#week2) | [Week 3](#week3) | [Week 4](#week4) | [Week 5](#week5) | [Week 6](#week5) | [Week 7](#week7) | [Week 8](#week8) | [Week 9](#week9) | [Week 10](#week10) | [Week 11](#week11) | [Week 12](#week12)
 
 # <a name="week6">Week 6</a>
-[Weekly Goals](#weekly) | [Daily Goals](#daily) | [Feedback](#pair)
-## <a name="weekly">Weekly Goals</a>
+[Weekly Goals](#weekly-6) | [Daily Goals](#daily-6) | [Feedback](#pair-6)
+## <a name="weekly-6">Weekly Goals</a>
 1.  **✓**
-2.  **✓**
-3.  **✓**
-4.  **✓**
+2.  Follow an effective process for learning a new language
+
 
 ### Plans to achieve these goals:
 1.
-2.
-3.
-4.
+2. Use resources provided
 
 ### Evidence:
 1.
-2.
-3.
-4.
+2. [JazzBuzz](https://github.com/benlynch1931/JazzBuzz-JS) are all examples of me learning a new language!
 
-## <a name="daily">Daily Goals</a>
+## <a name="daily-6">Daily Goals</a>
 
-### Monday
+### Monday 2nd November
 
-- **Goal** :
-- **Plan** :
-- **Evidence** :
+- **Goal** : TDD a simple FizzBuzz-JazzBuzz game.
+- **Plan** : Use a guided walkthrough provided as a helper for learning JavaScript
+- **Evidence** : Found on my profile [here](https://github.com/benlynch1931/JazzBuzz-JS). I really enjoyed this as I was able to apply the syntax I was learning. I'm glad it was a really simple game as I couldn't handle the new syntax otherwise!
 
 
 ### Tuesday
@@ -414,9 +337,23 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 - **Evidence** :
 
 
-## <a name="pair">Pair-Programming Feedback</a>
+### Wednesday
 
-**Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
+- **Goal** :
+- **Plan** :
+- **Evidence** :
+
+
+### Wednesday
+
+- **Goal** :
+- **Plan** :
+- **Evidence** :
+
+
+## <a name="pair-6">Pair-Programming Feedback</a>
+
+**Disclaimer!** *These are all anonymous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
 ### Response 1-
 
@@ -481,7 +418,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 
 ## <a name="pair">Pair-Programming Feedback</a>
 
-**Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
+**Disclaimer!** *These are all anonymous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
 ### Response 1-
 
@@ -546,7 +483,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 
 ## <a name="pair">Pair-Programming Feedback</a>
 
-**Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
+**Disclaimer!** *These are all anonymous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
 ### Response 1-
 
@@ -611,7 +548,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 
 ## <a name="pair">Pair-Programming Feedback</a>
 
-**Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
+**Disclaimer!** *These are all anonymous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
 ### Response 1-
 
@@ -676,7 +613,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 
 ## <a name="pair">Pair-Programming Feedback</a>
 
-**Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
+**Disclaimer!** *These are all anonymous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
 ### Response 1-
 
@@ -741,7 +678,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 
 ## <a name="pair">Pair-Programming Feedback</a>
 
-**Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
+**Disclaimer!** *These are all anonymous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
 ### Response 1-
 
@@ -806,7 +743,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 
 ## <a name="pair">Pair-Programming Feedback</a>
 
-**Disclaimer!** *These are all anonynous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
+**Disclaimer!** *These are all anonymous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
 ### Response 1-
 
