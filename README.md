@@ -323,28 +323,28 @@ I particularly enjoyed the freedom we were given to complete this challenge. I l
 - **Evidence** : Found on my profile [here](https://github.com/benlynch1931/JazzBuzz-JS). I really enjoyed this as I was able to apply the syntax I was learning. I'm glad it was a really simple game as I couldn't handle the new syntax otherwise!
 
 
-### Tuesday
+### Tuesday 3rd November
+
+- **Goal** : Learn how to effectively debug a javascript/web app
+- **Plan** : Attend the workshop and get involved with the practical and apply the knowledge else where
+- **Evidence** : A hard one to find evidence for as it's done in the moment, but I'd have a good enough understanding to explain it to someone else/ talk through as I do it.
+
+
+### Wednesday 4th November
+
+- **Goal** : Translate Airport Challenge from Ruby to JavaScript
+- **Plan** : Use knowledge pills and my Ruby code to translate into Javascript. I didn't re-do the logic, I just translated.
+- **Evidence** : Found at this [link](https://github.com/benlynch1931/Thermostat). There is a link to my airport challenge in [ruby](https://github.com/benlynch1931/airport_challenge).
+
+
+### Thursday 5th November
 
 - **Goal** :
 - **Plan** :
 - **Evidence** :
 
 
-### Wednesday
-
-- **Goal** :
-- **Plan** :
-- **Evidence** :
-
-
-### Wednesday
-
-- **Goal** :
-- **Plan** :
-- **Evidence** :
-
-
-### Wednesday
+### Friday 6th November
 
 - **Goal** :
 - **Plan** :
