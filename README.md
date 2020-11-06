@@ -56,7 +56,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 
 **Disclaimer!** *These are all anonymous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
-### Response 1-1
+### Response 1
 
 &#x2714; "Explained some of the elements that were new to me."
 - I am pleased to know that I am passing on knowledge that I have that others may not. It is also nice to hear that people are benefitting from this.
@@ -65,7 +65,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 - It is useful to hear this as I have always tried to rush through things.
 - I shall use this advice and learn to calm and slow myself, ensuring I have all information I possibly can before I proceed. This will eventually lead to better practice, more efficient code and less errors.
 
-### Response 2-2
+### Response 2
 
 &#x2714; "Great communication and sound advise, able to easily conceptualise tests/code and take things step by step. Thanks for all the tips and tricks!
 - Glad to know that not only my knowledge is useful but the small tips I pick up along the way are put to good use. I thought I struggled with step-by-step at times, so happy to know I am building on better practice.
@@ -131,7 +131,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 
 **Disclaimer!** *These are all anonymous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
-### Response 1-3
+### Response 1
 
 &#x2714; "Confident in his process of thinking, knew how to express his opinions effectively and was a good communicator."
 - It seems the building of thinking/step-by-step process is beginning to take shape.
@@ -140,7 +140,7 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 &#x2718; "Unable to comment"
 - It's nice to know people struggle to find improvements as this mean I am not getting hindered too often and that I am progressing really well.
 
-### Response 2-4
+### Response 2
 
 &#x2714; "Setup(ready to work, organized desktop), Good communication, looking ahead"
 - I will admit I take pride in my setup and how I lay out my windows.
@@ -229,18 +229,18 @@ Here is a complete and compiled run down of my journey through my Makers Bootcam
 
 **Disclaimer!** *These are all anonymous due to my preferences. I didn't want anyone to feel awkward filling out the form.*
 
-### Response 1-
+### Response 1
 
-&#x2714;
+&#x2714; "I felt that I was the 19 year old being guided and taught by a 34 professional as I was blown away by your knowledge and enthusiasm. Not only this, but your choice of wording when it comes to explaining concepts and programmes is of good quality, but you also demonstrated good use of falling back on examples when required. Keep this up and you will be driving Lamborghinis before you're 30!!!"
+- This actually made me slightly emotional. I love positive feedback, it really helps me feel good about myself and what I'm doing. To hear this really boosts my confidence and gives me the motivation and drive to continue on!
 
-&#x2718;
+### Response 2
+&#x2714; "Really really knowledgable, very helpful and explanatory"
+- It's great to know I'm knowledgable, but this doesn't compare to knowing that I am using the knowledge for good by helping others!
 
+&#x2718; "For me, I could go slightly slower"
+- I am sorry for going too fast, it isn't useful for whoever I'm with so I shall make sure I 'sit back' more and work at a pace better suited to my partner. Looking forward to pairing again and hoping I have worked on this issue
 
-### Response 2-
-
-&#x2714;
-
-&#x2718;
 
 
 
@@ -339,16 +339,16 @@ I particularly enjoyed the freedom we were given to complete this challenge. I l
 
 ### Thursday 5th November
 
-- **Goal** :
-- **Plan** :
-- **Evidence** :
+- **Goal** : Learn about Callbacks, the Event Loop, ASync and the flow-control.
+- **Plan** : Use the skills workshop on ASync and callbacks and a [talk](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by Philip Roberts
+- **Evidence** : Found here in the skills workshop [async_JS.md](https://github.com/benlynch1931/skills-workshops/blob/master/week-5/async_JS.md). I added my expectation and the result for each example and have brief definitions at the foot.
 
 
 ### Friday 6th November
 
-- **Goal** :
-- **Plan** :
-- **Evidence** :
+- **Goal** : Read into Closures.
+- **Plan** : Complete the practical provided on the AirTable. Had a useful Zoom call with a coach to ask questions about closures and closures Vs. classes.
+- **Evidence** : Created a Markdown [file](https://drive.google.com/file/d/1dtgaP-c_NuTNRoL-mdGLolFLXgsJExmT/view?usp=sharing) containing the example, my prediction, the true result and a brief explanation of what happened and why.
 
 
 ## <a name="pair-6">Pair-Programming Feedback</a>
@@ -357,16 +357,22 @@ I particularly enjoyed the freedom we were given to complete this challenge. I l
 
 ### Response 1-
 
-&#x2714;
+&#x2714; 'Taking time to explain things he had a better grasp of'
+- I always feel bad if I know something in better than detail to my peers, so I always try to explain it so they also understand as we are all in the same boat. I hope I continue to keep this up!
 
-&#x2718;
+&#x2718; 'We both should have initiated a couple of breaks'
+- I always find it useful to hear this, I definitely need to be getting away from the screen more regularly. I shall ensure that any future sessions involve me taking more breaks no matter what/
 
 
 ### Response 2-
 
-&#x2714;
+&#x2714; "I found Ben to be enthusiastic and knowledgable. He made it clear when he disagreed with an idea put forward by me, however he remained open minded and tackled such occurances with a problem solving attitude which I found both helpful and respectful.
+He was clear about his thinking and his actions which allowed pairing to be a collaborative experience."
+- Hearing that I present an attitude that is helpful and respectful is some really useful feedback as I believe this is a vital tool and skill for the future and working in teams.
+- I apologise for disagreeing with ideas and hope we came to a compromise together and that we discussed all options and how we could tweak the ideas to fit better!
 
-&#x2718;
+&#x2718; "There is nothing that comes to mine. Overall an enjoyable experience"
+- I know this doesn't seem like a conventional improvement, but I can see how I can 'improve' by continuing to apply all positive feedback until it becomes even more natural to me.
 
 
 
